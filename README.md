@@ -10,6 +10,9 @@ Technologies
 - Vuetify
 - Vue
 
+  ![image](https://github.com/joc44/vuejsWeather/assets/66038758/c7d025ab-b981-42bb-8c2e-dc7b1a8b93ac)
+
+
 ## Project Setup
 
 ```bash
